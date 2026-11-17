@@ -563,6 +563,15 @@
     "moduleVersionHeader": true
   },
   {
+    "display_name": "Vegamovies",
+    "value": "vegamovies",
+    "version": "1.0.0",
+    "icon": "https://vegamovies15.co.in/favicon.ico",
+    "type": "global",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
     "display_name": "AniDream",
     "value": "aniDream",
     "version": "1.1",
